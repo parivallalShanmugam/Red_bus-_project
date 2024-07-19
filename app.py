@@ -14,7 +14,7 @@ st.markdown(
     """
     <style>
     .reportview-container {
-        background: url(" https://example.com/your_background_image.jpg ");
+        background: url("https://example.com/your_background_image.jpg");
         background-size: cover;
     }
     .sidebar .sidebar-content {
@@ -37,7 +37,6 @@ st.markdown(
 
 # Title of the app
 st.title('RedBus-like Bus Booking App')
-
 
 # Sidebar for search filters
 st.sidebar.header('Search for Buses')
