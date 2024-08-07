@@ -1,4 +1,5 @@
 **Bus Route Scraper and Streamlit App**
+
 This project involves web scraping bus route details from RedBus, storing the data in an SQL database, and creating a Streamlit app to visualize the data.
 
 **Table of Contents:**
